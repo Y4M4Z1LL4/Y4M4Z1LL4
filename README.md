@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Y4M4Z1LL4
+- 👋 Hi, I’m Yamazilla
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything I can be usefull
