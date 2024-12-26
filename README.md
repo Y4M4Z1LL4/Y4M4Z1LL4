@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yamazilla
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Pentest TTP's
 - 💞️ I’m looking to collaborate on anything I can be usefull
 - 📫 How to reach me just dm me
 
